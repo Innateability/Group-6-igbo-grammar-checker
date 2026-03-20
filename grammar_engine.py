@@ -195,7 +195,5 @@ def check_sentence(sentence, dictionary):
         errors.append("Unusual verb pattern")
 
     # ✅ FINAL OUTPUT
-    if not errors:
-        return [f'Sentence "{sentence}" is correct']
 
     return errors
