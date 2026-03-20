@@ -50,7 +50,7 @@ dictionary = {
 "zo":"verb","chota":"verb","tu":"verb","kwe":"verb","gba":"verb",
 "da":"verb","taa":"verb","rakọ":"verb","gwa":"verb","su":"verb","do":"verb",
 "kwaga":"verb","sa":"verb","hichaa":"verb","nyochaa":"verb","nabata":"verb",
-"gozi":"verb","buo":"verb","kpee":"verb","gbuo":"verb","zoputa":"verb","eri":"verb"
+"gozi":"verb","buo":"verb","kpee":"verb","gbuo":"verb","zoputa":"verb","eri":"verb",
 
 # ===== PRONOUNS =====
 "m":"pronoun","mu":"pronoun","gi":"pronoun","ya":"pronoun","anyi":"pronoun",
